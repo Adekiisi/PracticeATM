@@ -1,0 +1,15 @@
+C:\Users\Decagon\Documents\SQ12 Materials\Week 9 and 10\ATMConsole\bin\Debug\net6.0\ATMConsole.exe
+C:\Users\Decagon\Documents\SQ12 Materials\Week 9 and 10\ATMConsole\bin\Debug\net6.0\ATMConsole.deps.json
+C:\Users\Decagon\Documents\SQ12 Materials\Week 9 and 10\ATMConsole\bin\Debug\net6.0\ATMConsole.runtimeconfig.json
+C:\Users\Decagon\Documents\SQ12 Materials\Week 9 and 10\ATMConsole\bin\Debug\net6.0\ATMConsole.dll
+C:\Users\Decagon\Documents\SQ12 Materials\Week 9 and 10\ATMConsole\bin\Debug\net6.0\ATMConsole.pdb
+C:\Users\Decagon\Documents\SQ12 Materials\Week 9 and 10\ATMConsole\obj\Debug\net6.0\ATMConsole.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\SQ12 Materials\Week 9 and 10\ATMConsole\obj\Debug\net6.0\ATMConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\SQ12 Materials\Week 9 and 10\ATMConsole\obj\Debug\net6.0\ATMConsole.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\SQ12 Materials\Week 9 and 10\ATMConsole\obj\Debug\net6.0\ATMConsole.AssemblyInfo.cs
+C:\Users\Decagon\Documents\SQ12 Materials\Week 9 and 10\ATMConsole\obj\Debug\net6.0\ATMConsole.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\SQ12 Materials\Week 9 and 10\ATMConsole\obj\Debug\net6.0\ATMConsole.dll
+C:\Users\Decagon\Documents\SQ12 Materials\Week 9 and 10\ATMConsole\obj\Debug\net6.0\refint\ATMConsole.dll
+C:\Users\Decagon\Documents\SQ12 Materials\Week 9 and 10\ATMConsole\obj\Debug\net6.0\ATMConsole.pdb
+C:\Users\Decagon\Documents\SQ12 Materials\Week 9 and 10\ATMConsole\obj\Debug\net6.0\ATMConsole.genruntimeconfig.cache
+C:\Users\Decagon\Documents\SQ12 Materials\Week 9 and 10\ATMConsole\obj\Debug\net6.0\ref\ATMConsole.dll
